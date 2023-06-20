@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body{
+    background-color: #5EADF8;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: #7952D9;
+}
+
+.titulo{
+    color: white;
+    background-color: #5274D9;
+}
+
+.basico{
+    color: rgb(41, 121, 41);
+}
+
+.avançado{
+    color: rgb(126, 31, 31);
+}
